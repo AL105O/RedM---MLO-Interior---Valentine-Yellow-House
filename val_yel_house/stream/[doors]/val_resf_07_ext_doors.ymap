@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapData>
+ <name />
+ <parent />
+ <flags value="2" />
+ <contentFlags value="65" />
+ <streamingExtentsMin x="-813.3535" y="250.60736" z="-285.4166" />
+ <streamingExtentsMax x="-4.315063" y="1061.9038" z="514.61646" />
+ <entitiesExtentsMin x="-413.35352" y="650.60736" z="114.5834" />
+ <entitiesExtentsMax x="-404.31506" y="661.9038" z="114.61645" />
+ <entities>
+  <Item type="CEntityDef">
+   <archetypeName>p_door02x</archetypeName>
+   <flags value="353894400" />
+   <id value="0x0000000000000000" />
+   <position x="-404.31506" y="661.9038" z="114.5834" />
+   <rotation x="0" y="0" z="0.999985" w="0.005447" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="50" />
+   <childLodDist value="50" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions>
+    <Item type="CExtensionDefDoor">
+     <name>p_door02x</name>
+     <offsetPosition x="0" y="0" z="0" />
+     <autoOpens value="False" />
+     <enableLimitAngle value="True" />
+     <EFwMwAA_0x091A42D0 value="False" />
+     <startsLocked value="False" />
+     <canBreak value="False" />
+     <PkpciBA_0xA37CAB71 value="False" />
+     <dKbmTLA_0xCFE37BDB value="1.670796" />
+     <nuskEbA_0xA0CF3C8D value="1.670796" />
+     <RbUnQLA_0x9C555ECF value="0" />
+     <OPkNlHA_0xBCA0289E value="0" />
+     <doorTargetRatio value="0" />
+     <audioHash />
+     <doorTags>
+      <Item />
+      <Item />
+      <Item />
+      <Item />
+     </doorTags>
+    </Item>
+    <Item type="CExtensionDefScriptEntityId">
+     <name>p_door02x</name>
+     <offsetPosition x="0" y="0" z="0" />
+     <Id>OtjCdEA_0x6D7CCE81</Id>
+    </Item>
+   </extensions>
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <blendAgeLayer value="255" />
+   <blendAgeDirt value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_door02x</archetypeName>
+   <flags value="353894400" />
+   <id value="0x0000000000000000" />
+   <position x="-413.35352" y="655.7822" z="114.60731" />
+   <rotation x="0" y="0" z="0.705474" w="0.708735" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="50" />
+   <childLodDist value="50" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions>
+    <Item type="CExtensionDefDoor">
+     <name>p_door02x</name>
+     <offsetPosition x="0" y="0" z="0" />
+     <autoOpens value="False" />
+     <enableLimitAngle value="True" />
+     <EFwMwAA_0x091A42D0 value="False" />
+     <startsLocked value="False" />
+     <canBreak value="False" />
+     <PkpciBA_0xA37CAB71 value="False" />
+     <dKbmTLA_0xCFE37BDB value="1.670796" />
+     <nuskEbA_0xA0CF3C8D value="1.670796" />
+     <RbUnQLA_0x9C555ECF value="0" />
+     <OPkNlHA_0xBCA0289E value="0" />
+     <doorTargetRatio value="0" />
+     <audioHash />
+     <doorTags>
+      <Item />
+      <Item />
+      <Item />
+      <Item />
+     </doorTags>
+    </Item>
+    <Item type="CExtensionDefScriptEntityId">
+     <name>p_door02x</name>
+     <offsetPosition x="0" y="0" z="0" />
+     <Id>sjmUDFA_0x7CCA6D1C</Id>
+    </Item>
+   </extensions>
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <blendAgeLayer value="255" />
+   <blendAgeDirt value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_door02x</archetypeName>
+   <flags value="353894400" />
+   <id value="0x0000000000000000" />
+   <position x="-406.45862" y="650.60736" z="114.61645" />
+   <rotation x="0" y="0" z="-0.706781" w="0.707432" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="50" />
+   <childLodDist value="50" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions>
+    <Item type="CExtensionDefDoor">
+     <name>p_door02x</name>
+     <offsetPosition x="0" y="0" z="0" />
+     <autoOpens value="False" />
+     <enableLimitAngle value="True" />
+     <EFwMwAA_0x091A42D0 value="False" />
+     <startsLocked value="False" />
+     <canBreak value="False" />
+     <PkpciBA_0xA37CAB71 value="False" />
+     <dKbmTLA_0xCFE37BDB value="1.670796" />
+     <nuskEbA_0xA0CF3C8D value="1.670796" />
+     <RbUnQLA_0x9C555ECF value="0" />
+     <OPkNlHA_0xBCA0289E value="0" />
+     <doorTargetRatio value="0" />
+     <audioHash />
+     <doorTags>
+      <Item />
+      <Item />
+      <Item />
+      <Item />
+     </doorTags>
+    </Item>
+    <Item type="CExtensionDefScriptEntityId">
+     <name>p_door02x</name>
+     <offsetPosition x="0" y="0" z="0" />
+     <Id>BVlDvTA_0x50DA153C</Id>
+    </Item>
+   </extensions>
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <blendAgeLayer value="255" />
+   <blendAgeDirt value="255" />
+  </Item>
+ </entities>
+ <containerLods />
+ <boxOccluders />
+ <occludeModels />
+ <physicsDictionaries />
+ <instancedData type="rage__fwInstancedMapData">
+  <ImapLink />
+  <PropInstanceList />
+  <GrassInstanceList />
+ </instancedData>
+ <timeCycleModifiers />
+ <awOyxCA_0x8471928B />
+ <reflectionProbeData />
+ <carGenerators />
+ <LODLightsSOA type="CLODLight">
+  <direction />
+  <falloff />
+  <falloffExponent />
+  <timeAndStateFlags />
+  <hash />
+  <coneInnerAngle />
+  <coneOuterAngleOrCapExt />
+  <coronaIntensity />
+  <XVPnEEA_0xFFD167D6 />
+ </LODLightsSOA>
+ <DistantLODLightsSOA type="CDistantLODLight">
+  <position />
+  <RGB />
+  <intensity />
+  <numStreetLights value="0" />
+  <category value="0" />
+  <powerGridId />
+  <hash />
+ </DistantLODLightsSOA>
+ <block type="CBlockDesc">
+  <version value="0" />
+  <flags value="0" />
+  <name />
+  <exportedBy />
+  <owner />
+  <time />
+ </block>
+</CMapData>
