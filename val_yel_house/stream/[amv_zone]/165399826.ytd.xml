@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RDR2TextureDictionary version="1">
+	<Textures>
+		<Item>
+			<Name>165399826_d</Name>
+			<Dimension>TextureCube</Dimension>
+			<Flags value="402685954" />
+			<SRVUnknown08 value="5378212016" />
+		</Item>
+		<Item>
+			<Name>165399826_1</Name>
+			<Dimension>TextureCube</Dimension>
+			<Flags value="402685954" />
+		</Item>
+		<Item>
+			<Name>165399826_0</Name>
+			<Dimension>TextureCube</Dimension>
+			<Flags value="402685954" />
+		</Item>
+	</Textures>
+</RDR2TextureDictionary>
