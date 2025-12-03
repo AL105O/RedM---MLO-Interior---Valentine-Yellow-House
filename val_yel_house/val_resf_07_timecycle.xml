@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <timecycle_modifier_data version="1.000000">
-    <modifier name="val_res_01_f_int" description="" numMods="28" userFlags="0">
+    <modifier name="val_resf_07_timecycle" description="" numMods="28" userFlags="0">
         <light_artificial_int_down_intensity>0.050 0.000</light_artificial_int_down_intensity>
         <light_artificial_int_up_intensity>0.050 0.000</light_artificial_int_up_intensity>
         <postfx_exposure_lowlights_percent>0.400 0.000</postfx_exposure_lowlights_percent>
@@ -31,4 +31,5 @@
         <water_rendering_disabled>1.000 0.000</water_rendering_disabled>
         <indirect_light_multiplier>1.000 0.000</indirect_light_multiplier>
     </modifier>
+
 </timecycle_modifier_data>
