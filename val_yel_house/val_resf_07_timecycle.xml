@@ -1,15 +1,23 @@
 <?xml version="1.0"?>
 <timecycle_modifier_data version="1.000000">
     <modifier name="val_resf_07_timecycle" description="" numMods="28" userFlags="0">
-        <light_artificial_int_down_intensity>0.050 0.000</light_artificial_int_down_intensity>
+      <light_artificial_int_down_col_r>0.812 1.000</light_artificial_int_down_col_r>
+        <light_artificial_int_down_col_g>0.529 1.000</light_artificial_int_down_col_g>
+        <light_artificial_int_down_col_b>0.176 1.000</light_artificial_int_down_col_b>
+        <light_artificial_int_up_col_r>0.835 1.000</light_artificial_int_up_col_r>
+        <light_artificial_int_up_col_g>0.412 1.000</light_artificial_int_up_col_g>
+        <light_artificial_int_up_col_b>0.102 1.000</light_artificial_int_up_col_b>
         <light_artificial_int_up_intensity>0.050 0.000</light_artificial_int_up_intensity>
-        <postfx_exposure_lowlights_percent>0.400 0.000</postfx_exposure_lowlights_percent>
+        <fog_volume_light_size>1.000 0.000</fog_volume_light_size>
         <dir_shadow_distance_multiplier>0.300 0.000</dir_shadow_distance_multiplier>
+        <far_clip>0.000 400.000</far_clip>
         <temperature_target>22.000 0.000</temperature_target>
         <temperature_flatten>0.850 0.000</temperature_flatten>
-        <fog_start>25.000 5000.000</fog_start>
-        <lightanim_wind>0.000 0.000</lightanim_wind>
+        <minimum_wetness>0.000 0.000</minimum_wetness>
+        <postfx_exposure_lowlights_percent>0.400 0.000</postfx_exposure_lowlights_percent>
         <lightanim_damp>0.000 0.000</lightanim_damp>
+        <lightanim_wind>0.000 0.000</lightanim_wind>
+        <amv_reflection_interior_tweak_remap_mult>1.000 0.000</amv_reflection_interior_tweak_remap_mult>
         <postfx_exposure_cubemap_mult_close_to_portals>1.000 0.000</postfx_exposure_cubemap_mult_close_to_portals>
         <postfx_exposure_cubemap_amount>0.300 0.000</postfx_exposure_cubemap_amount>
         <ped_light0_col_r>1.000 1.000</ped_light0_col_r>
@@ -28,8 +36,13 @@
         <ped_light3_col_g>0.780 1.000</ped_light3_col_g>
         <ped_light3_col_b>0.518 1.000</ped_light3_col_b>
         <ped_light3_mult>2.000 0.000</ped_light3_mult>
-        <water_rendering_disabled>1.000 0.000</water_rendering_disabled>
+        <postfx_exposure_perpixel_amount>0.200 0.000</postfx_exposure_perpixel_amount>
         <indirect_light_multiplier>1.000 0.000</indirect_light_multiplier>
+        <light_artificial_int_down_intensity>0.150 0.000</light_artificial_int_down_intensity>
+        <local_atmosphere_voxel_distribution_blend>1.000 0.000</local_atmosphere_voxel_distribution_blend>
+        <water_rendering_disabled>1.000 0.000</water_rendering_disabled>
+        <amv_reflection_interior_tweak_remap_bias>0.700 0.000</amv_reflection_interior_tweak_remap_bias>
+        <postfx_exposure_spot_meter_portal_width_multiplier>2.000 0.000</postfx_exposure_spot_meter_portal_width_multiplier>
+        <light_screen_space_depth_bias>0.010 0.000</light_screen_space_depth_bias>
     </modifier>
-
 </timecycle_modifier_data>
